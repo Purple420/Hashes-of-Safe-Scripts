@@ -1,0 +1,3 @@
+##5660 Corpse Uber Particle Shader v15
+#Assets/Corpse/Shaders/Uber Particle/Editor/Corpse Uber Particle GUI.cs
+f265faca12c9e349bc60654071dc62ba169bde901c8f345b638a170dacfc7d85

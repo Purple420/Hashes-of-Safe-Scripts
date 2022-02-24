@@ -1,0 +1,5 @@
+##VRC.Hotswap
+#Assets/VRC Hotswap/Editor/VRCHotswap.cs
+1b1ebbc639b6222b9a3f1fc968d5f21e11a9196ede0c258151bdceeb5fc35ab4
+#Assets/VRC Hotswap/Resources/Compressor/AssetsTools.NET.dll
+69d98a0fea8ed4f31d304f95b4eeeb8df96457d4e15af0eff2755a5327f39463

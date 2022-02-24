@@ -1,0 +1,13 @@
+##SCSS-master
+#Assets/SCSS-master/Silent's Cel Shading Shader/Editor/SCSS_Inspector.cs
+6ddd6e13e8e9b8b40ccd78c37648653ceac6f2c06f441e91f6eb6839a163029f
+#Assets/SCSS-master/Silent's Cel Shading Shader/Editor/SCSS_InspectorBase.cs
+ad5bf3a144bdb898024b01b1af7bda56349b5d1357f774ba602c7d491a694e61
+#Assets/SCSS-master/Silent's Cel Shading Shader/Editor/SCSS_InspectorTools.cs
+bf09c3de347032d0e99f55d3b41eab3f3c44418200c0ecfe3912f995b8b7f7af
+#Assets/SCSS-master/Silent's Cel Shading Shader/Editor/SCSS_ShaderBaking.cs
+6de87bb9f0341ecff8497faf2df30131b4464373ac10313c0306a16699e04607
+#Assets/SCSS-master/Silent's Cel Shading Shader/Editor/SCSS_XSGradientEditor.cs
+869239f421cff70cf6316fec262b4a693a8de8fc584d633244f076ca765f9117
+#Assets/SCSS-master/Silent's Cel Shading Shader/Editor/SCSS_XSMultiGradient.cs
+40f949b46804b13b0ade6e661484dab0b7f3249a630662a58e7597a4de16a8d9

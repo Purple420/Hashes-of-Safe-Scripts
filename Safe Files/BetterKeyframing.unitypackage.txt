@@ -1,0 +1,5 @@
+##Better Keyframing
+#Assets/SurfknasenBetterKeyframing/Scripts/AudioUtility.cs
+3301d85f3bdc683137e27c98bd1d7f71b41686393104ded0bf3d6e6972ef3583
+#Assets/SurfknasenBetterKeyframing/Scripts/BetterKeyframingEditor.cs
+26c9248e298f1f3afd6e3b8732aed77c82043f2c758c140a735be2971ecce577

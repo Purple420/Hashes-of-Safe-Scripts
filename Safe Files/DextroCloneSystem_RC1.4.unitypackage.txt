@@ -1,0 +1,3 @@
+##Dextro Clone System RC1.4
+#Assets/DexCloneSystem/Editor/DexCloneSystem.dll
+dd458a7700903f20c9ce1aecac6dd3337de0ae7a940c91b0a59202b6a603af3f

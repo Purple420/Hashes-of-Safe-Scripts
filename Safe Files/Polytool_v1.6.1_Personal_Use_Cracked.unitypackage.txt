@@ -1,0 +1,3 @@
+##Polytool v1.6.1
+#Assets/Markcreator/Polytool/Markcreator.Polytool.dll
+e74593311b9fd33c62c9eabb9948e5284a6fff929e03b321e4f80cbdf2b2c8bc

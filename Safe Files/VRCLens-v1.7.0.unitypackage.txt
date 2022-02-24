@@ -1,0 +1,13 @@
+##VRCLens v1.7.0
+#Assets/Hirabiki/VRCLens/Editor/ConfigInspector.cs
+2097c2238226fa73c691d9e1c0fcbe497ba2f94fb440effb6b06bc496d8f61be
+#Assets/Hirabiki/VRCLens/Lib/AnimatorCloner/AnimatorCloner.cs
+34a722c80f7e6ebed9a3ba176d3ae70cb21b085ee32768cd2f2147979573a746
+#Assets/Hirabiki/VRCLens/Resource/VRCLensAssetManager.cs
+f7a5cebbaebdaaf9760f094407669aa25a2f77e10b46e4395d521645269720fd
+#Assets/Hirabiki/VRCLens/Resource/VRCLensProfileManager.cs
+d35ceffa3c1020f1ec50da3be335fbae6649685ddb70f80fcb0552b0ee55b154
+#Assets/Hirabiki/VRCLens/Resource/VRCLensSetup.cs
+ba0761a9931eda90935d405527fdd4cc6a8bc0f81ef2060b8423e296b0fa6ff7
+#Assets/Hirabiki/VRCLens/Resource/Hirabiki-AV3-Managed.dll
+ccc738c7459a7ca224f66f434fb4b04aa5f718edffe1fb333565d2438afa1d78

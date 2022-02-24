@@ -1,0 +1,13 @@
+##AV3Manager
+#Assets/VRLabs/Avatars 3.0 Manager/Editor/AnimationClipSwap.cs
+8031c3a84e81d2cf9b4c9a9cadc4df6108689b0b6bd0314f31c11d62ee05db2f
+#Assets/VRLabs/Avatars 3.0 Manager/Editor/AnimatorCloner.cs
+04a26f52335985177d8975ea021a5bac42975edbf09c3ac52cbf27c8e25bb5d6
+#Assets/VRLabs/Avatars 3.0 Manager/Editor/AnimatorToMerge.cs
+210a2a3c7e0696a81aefde9e8f612857f074f4df024cde3803bc8eac68051f6a
+#Assets/VRLabs/Avatars 3.0 Manager/Editor/AV3ManagerFunctions.cs
+ff3fa590464ef8112a39a92f3ef536a2c07f411c110df1dc11c816d0036aa650
+#Assets/VRLabs/Avatars 3.0 Manager/Editor/AV3ManagerWindow.cs
+1f1729e638869115149d0861da19fcda5a7aa19e259ec7afd3480f5711269567
+#Assets/VRLabs/Avatars 3.0 Manager/Editor/LayerOptions.cs
+47fc8265c3138965c9da2a240ba9b5433d27426d0340fe50a503c868efa5d1ab

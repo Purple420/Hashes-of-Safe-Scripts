@@ -1,0 +1,3 @@
+##MeshSplitter-1.0.0
+#Assets/MeshSplitter/Editor/MeshSplitter.cs
+8c00af2dbd395ccd371fd7befae9027116e41319af8f75f6ff51e85a0c30b7bd

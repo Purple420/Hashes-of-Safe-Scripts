@@ -1,0 +1,7 @@
+##arktoon shaders 1.0.2.6
+#Assets/arktoon Shaders/Editor/ArktoonInspector.cs
+bb16a06a3480ea7fb6e667c5f598a9902b780db26c4addb3be73afef6064238b
+#Assets/arktoon Shaders/Editor/ArktoonManager.cs
+c02f0ed0fd648efa2025d5c62fcb56e81b49b929424c18c543bd6e79f16bab58
+#Assets/arktoon Shaders/Editor/ArktoonMigrator.cs
+b5ab84e05bf0ef0ba3e233c6c8b26f2f9abfdcead560c8c6deb22107feee2915

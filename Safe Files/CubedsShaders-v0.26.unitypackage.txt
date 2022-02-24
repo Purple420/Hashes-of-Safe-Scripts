@@ -1,0 +1,7 @@
+##Cubeds Shaders v0.26
+#Assets/Cubed's Unity Shaders/Editor/FlatLitToon/FlatLitToonInspector.cs
+c45b281a294ca83b7fbda1641e2f75d44dce5fdb299edcf056db0b644139632e
+#Assets/Cubed's Unity Shaders/Editor/FlatLitToonLite/FlatLitToonLiteCutoutInspector.cs
+2ff0031c746cf37e853f814e81ca6aa118555d01acc03a4338210387b1dfd3b6
+#Assets/Cubed's Unity Shaders/Editor/FlatLitToonLite/FlatLitToonLiteInspector.cs
+0b37ce9361c7c0f5061d3d11819a0067c57a1d258fef729ff0db733c1a842a8d

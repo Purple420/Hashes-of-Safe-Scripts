@@ -1,0 +1,5 @@
+##UnityChanToonShaderVer2_Project-urp-2.3.0
+#Assets/UnityChanToonShaderVer2_Project-urp-2.3.0/Editor/CopyMaterialParameter.cs
+70a09bf3946824881c06cfbd6a073361ab56b9bb04a67423178147b5f6031c80
+#Assets/UnityChanToonShaderVer2_Project-urp-2.3.0/Editor/UniversalToonGUI.cs
+33f3080e563c119d9e47f3560f8794c02052339906d6f64ea39f43d142ca982e

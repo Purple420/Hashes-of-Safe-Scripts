@@ -1,0 +1,5 @@
+##AutoDynamicBones_-_Ultra_V4_-_Added_gravity_and_force
+#Assets/AutoDynamicBones/AutoDynamicBones.cs
+d8d32dcbe06424439a5eea8491174ecd07cd23ed77fcf836f91af60f8699665a
+#Assets/AutoDynamicBones/Editor/AutoDynamicBonesEditor.cs
+0111682b08c4b5aa3360a4dfb04ca7ff01337169c2e3c39628069fad4148f9d5

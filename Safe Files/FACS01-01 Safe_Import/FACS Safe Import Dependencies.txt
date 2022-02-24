@@ -1,0 +1,7 @@
+##v1
+#Assets/FACS Safe Import/Editor/SafeImport.cs
+03d16befc3aa2cc76211d8dd297312764ab901159732814c920f64800f3f3bcb
+#Assets/FACS Safe Import/Editor/Managed/ICSharpCode.SharpZipLib.dll
+c287e9b07a8251828f35914364c89a37db606b0c1d64457f9eb8fa2258f0dee3
+#Assets/FACS Safe Import/Editor/Managed/Newtonsoft.Json.dll
+285398ff2139b1dfd13e47b1374aaed11f15679c21d8ed5d5f5ba17d89f05554
