@@ -1,0 +1,3 @@
+##Leviant_ScreenSpace_Ubershader_v2.8.1_1
+#Assets/ScreenSpace Ubershader/Editor/LeviantScreenSpaceEditor.cs
+d8804997f05a473141d2e14afad242d60f4f73fd71288b11fba666da91024a52

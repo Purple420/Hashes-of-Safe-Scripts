@@ -1,0 +1,5 @@
+##[Doppelganger] Patreon Dope Shader 2.2.5
+#Assets/Shaders/Doppelgänger/Patreon/Dope Shader/2.2.5/Editor/DopeSFXGUI225.cs
+2663cf25a8da2961e1231131456a2524a32198a933ee3f496eb56564b7751f89
+#Assets/Shaders/Doppelgänger/Patreon/Dope Shader/MenuItem/DopeMenuItem.cs
+0d5cbdebb614fdc2a86679222168082fb428117f4f4ff20c9114224335e7c758

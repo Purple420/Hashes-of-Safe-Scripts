@@ -1,0 +1,7 @@
+##Leviant_ScreenSpace_Shader_v2.5.1
+#Assets/Leviant ScreenSpace Shader v2.5/Editor/FoldoutforLeviant.cs
+4596acec03d40859bfd133d7610f6d5025e930072b6b97acc57fe01cea4635b4
+#Assets/Leviant ScreenSpace Shader v2.5/Editor/LayoutforLeviant.cs
+1caf0615c80bbb13833bbfe9f865450077bb9d6986c687410b8a4dee168aca22
+#Assets/Leviant ScreenSpace Shader v2.5/Editor/LeviantScreenSpaceEditor.cs
+d443649b8a2d29eefc0859b30164c3ce53eb4e3485998ae3c685b8df747bf23f
