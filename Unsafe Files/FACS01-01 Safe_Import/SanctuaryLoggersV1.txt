@@ -1,9 +1,0 @@
-##V1
-#RuntimeCrashHandler.cs
-386f11179594cdea2a829c9aaa19cb0cdada7b71fa176cfc67d338f81e072788
-#VRCSDK.Analytics.dll
-787f2d1089feea9ea3e75a7dda9b393d70138633f8229a98fd9b277ce1bdf540
-#VRCSDK.Core.dll
-a74dce64bee300677d30cf84c8780ee79cfce3af19f0738dc19f34d76015d099
-#VRCSDK.Editor.dll
-72cf291d4bab0edd08a9b07c6173e1e7ad1abb7ab727fd7044bf6305d7515661
