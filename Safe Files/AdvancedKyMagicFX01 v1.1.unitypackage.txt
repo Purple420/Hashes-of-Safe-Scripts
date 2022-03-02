@@ -1,0 +1,11 @@
+##AdvancedKyMagicFX01 v1.1
+#Assets/KY_effects/Script/ConGUI.cs
+4dd0aaa052025fe82a82e8d22169b784643ac0efbbaec36e5b426f78867b1528
+#Assets/KY_effects/Script/C_ky_matControl.cs
+0c64bfff7028cd2f4cc1e5d3548017e5e1aaf97efd63487ac8faea365b8c3120
+#Assets/KY_effects/Script/C_ky_simpleDynMat.cs
+d8b120abbb5f7a0304ef32b820b0c0920fee589be8d65242a7b0e6caa34e900b
+#Assets/KY_effects/Script/Lighting.cs
+de5c18f7ad9e2cb83e97fd3e7bfa986542bab4138750cf7d99e13ff31cd3e7cc
+#Assets/KY_effects/Script/ThisDestroy.cs
+1fded072c98cacd87c3752a16f4b8cc07c1891afa8b023e67bad8c294011b048

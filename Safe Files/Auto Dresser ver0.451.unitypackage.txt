@@ -1,0 +1,3 @@
+##Auto Dresser ver0.451
+#Assets/Auto Dresser/Scripts/AutoDresser.cs
+42206e0e3f3620763c7f433dd1c5537346aa6254edd4928306c1d1475cfc9f87

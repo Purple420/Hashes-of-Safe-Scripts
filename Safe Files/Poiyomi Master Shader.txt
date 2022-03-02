@@ -1,0 +1,3 @@
+##Poiyomi Master Shader
+#Assets/Poiyomi Master Shader/Editor/PoiMaster.cs
+5e29fd840910c9d3022722f7e574a3a768d87dd74a0a2aeff987c73b5135b2e5

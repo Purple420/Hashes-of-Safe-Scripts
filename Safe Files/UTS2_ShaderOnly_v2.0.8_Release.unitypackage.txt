@@ -1,0 +1,3 @@
+##UTS2_ShaderOnly_v2.0.8_Release
+#Assets/Toon/Editor/UTS2GUI.cs
+0db6defeb31fbf931ae6ac7120d0cace78f3ddc78b0bdeee97d41c575ac5be7c

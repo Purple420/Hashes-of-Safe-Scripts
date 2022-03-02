@@ -1,0 +1,3 @@
+##Neitri Avatar Shaders
+#Assets/Neitri Avatar Shaders/Editor/NeitriAvatarShadersEditor.cs
+84ae1db20eb46e88783aead6c82fdd5bd9daf78346952b384198ffc15935fedc

@@ -1,0 +1,7 @@
+##marker-SDK2.0.2
+#Assets/Snail/Marker2.0/AnimationGenerator/SnailMarkerAnimationCreator.cs
+c22a49caea52ce47546bd0dd45e59fc6e2b90f8931a728c545c48587a8948b26
+#Assets/Snail/Marker2.0/AnimationGenerator/Editor/SnailMarkerAnimationCreatorEditor.cs
+d6ad7a4894f2832d435deb6e7d0cbfd101e15f6df259a4eadbb6cb98a02a349b
+#Assets/Snail/Marker2.0/Components/Materials/Editor/SnailMarkerEditor.cs
+24a316ca01993b11ca6f6ffac0c36419e8dbddf9397450beafd6c7b2c0c440f9

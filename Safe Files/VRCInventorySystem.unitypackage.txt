@@ -1,0 +1,3 @@
+##VRCInventorySystem
+#Assets/VRCInventorySystem-master/InventorySysPrefabEdited/Editor/InvRemapper.cs
+b7eef500ecf3da1b39cb0633529cb43df73d25365dc5f99fa297701251afbf62

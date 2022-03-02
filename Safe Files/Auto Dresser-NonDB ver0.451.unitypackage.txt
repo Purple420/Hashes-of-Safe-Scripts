@@ -1,0 +1,3 @@
+##Auto Dresser-NonDB ver0.451
+#Assets/Auto Dresser-NonDB/Scripts/AutoDresserNDB.cs
+e677bcfdeb76d2e7c7cc51d1444f168d34d34411a78e1d0ff75c263ee576ebf2

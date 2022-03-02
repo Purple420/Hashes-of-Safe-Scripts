@@ -1,0 +1,3 @@
+##luka_mae_v12
+#Assets/luka mae/Resources/Editor/LukaSE.cs
+6daa45a12a47b4acbdb41225a980695618e1d3216d86b3d2b175a9c1f31a7772

@@ -1,0 +1,9 @@
+##2257 GPU Particles v3
+#Assets/GPU Particles/CreateResetTexture.cs
+2459a8f4acb66b7b4b836c6e59c440b8e82844f62896a19af7244a1266d2f5f5
+#Assets/GPU Particles/Shaders/Editor/ResetInspector.cs
+0734bfa3b4117ae2171afb9ff0780bb55edc5be214daa3f9465066094b80a483
+#Assets/GPU Particles/Shaders/Editor/SimulatorInspector.cs
+e3311934953f63c59a6ace2f38135a65a398e45b1da13674c21e54fb6dd64050
+#Assets/GPU Particles/Shaders/Editor/VisualizerInspector.cs
+e415122ea982734df49148d68b3b23ac609240fdf041432bab9dde42bd7d1845

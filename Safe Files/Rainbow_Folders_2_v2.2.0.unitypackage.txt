@@ -1,0 +1,5 @@
+##Rainbow_Folders_2_v2.2.0
+#Assets/Plugins/RainbowAssets/!Core/Assemblies/RainbowCore.dll
+086f26fbf0f8a26570d93346cbc2175b3e0ba8a0358c48a4e4814dcae7822715
+#Assets/Plugins/RainbowAssets/RainbowFolders/Editor/Assemblies/RainbowFolders.dll
+81445bc824581da207462333580d8dd5b4d55b26b94b71ea1cce00cd3ff07c38
