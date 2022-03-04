@@ -1,0 +1,3 @@
+##[Doppelganger] Rinnegan Eye Shader
+#Assets/Shaders/Doppelgänger/Patreon/Rinnegan Eye Shader/Editor/RinneganEyeGUI.cs
+0a2cc924793bcbd684cae4676294f1cbd3a5c3b0fcdc7281c9556cd4fb90eb3a
