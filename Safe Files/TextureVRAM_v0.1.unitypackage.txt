@@ -1,0 +1,3 @@
+##TextureVRAM_v0.1
+#Assets/Thry/TextureVRAMCalculator/TextureVRAM.cs
+447a84d1d629009529b2237ad3cb8cb2e27e668d33390b1171cfb302e4fac33d

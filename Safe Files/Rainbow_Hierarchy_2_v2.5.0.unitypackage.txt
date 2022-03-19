@@ -1,0 +1,5 @@
+##Rainbow_Hierarchy_2_v2.5.0
+#Assets/Plugins/RainbowAssets/!Core/Assemblies/RainbowCore.dll
+b8ec9a1c8e796a0ca15dbc909b8e14a80c5b40e9c558c7e28080a8efe97a8392
+#Assets/Plugins/RainbowAssets/RainbowHierarchy/Assemblies/RainbowHierarchy.dll
+09bbbcba9fffad14b5ffa3582f07fad38263978249ec7a47bab950a09a3cfe11

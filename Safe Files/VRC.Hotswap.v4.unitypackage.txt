@@ -1,0 +1,3 @@
+##VRC.Hotswap.v4
+#Assets/VRC Hotswap/Editor/VRCHotswap.cs
+6cd67c7b20390690889b8c9eaeb3251503e3c8959be06ee1c804dc48e0d4bd22
