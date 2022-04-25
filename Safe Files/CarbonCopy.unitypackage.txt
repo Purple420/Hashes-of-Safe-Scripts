@@ -1,5 +1,7 @@
 ##CarbonCopy
 #Assets/DreadScripts/Carbon Copy/Export/Shaders/Editor/ToggleHUDEditor.cs
 d4d572b3a4055088cb904a26f79a305b01a029e95e684ea48164ebe24bbcb14e
+#Assets/DreadScripts/Carbon Copy/Editor/Carbon Clone Patch v.1.1.1.dll
+daf2df6b01887b92a5da0de494b9dd035f2edbba13f0b206335c4a171dd0b1d7
 #Assets/DreadScripts/Carbon Copy/Editor/CarbonCopy.dll
-aeb1a471154229905ee9e9c47129d93f60547ac362ca5d9419dcae98946cb130
+0ceb3081fb524003b8089f547c0078d5dd62722e6bea245976cf7d2da673b8d9
