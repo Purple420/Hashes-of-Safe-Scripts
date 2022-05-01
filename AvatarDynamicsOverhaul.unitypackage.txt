@@ -1,3 +1,0 @@
-##AvatarDynamicsOverhaul
-#Assets/DreadScripts/Avatar Dynamics Overhaul/Editor/ADOverhaul.dll
-15d13c209f39eb601385ff5e26f06d424e60358424cdcc20bbe90468d8632882
