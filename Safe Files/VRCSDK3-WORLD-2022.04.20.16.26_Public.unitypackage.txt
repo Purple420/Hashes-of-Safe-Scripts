@@ -751,10 +751,6 @@ dd1c9abdd61c63c08a0ca84e59d803b109447cf5306d9260fe9a2bfa428b7d3f
 58723ce389ba84e59b4d468bad36de0261cc7e5de5e0b3f59d9f8459f1684337
 #Assets/VRCSDK/SDK3/Runtime/Midi/PortMidi/PortMidiMarshal.cs
 531d1c6ac37a18b115f415e8e807d34d195a8aee320b262ceb4718867ae42659
-#Assets/FACS Safe Import/Editor/Managed/ICSharpCode.SharpZipLib.dll
-c287e9b07a8251828f35914364c89a37db606b0c1d64457f9eb8fa2258f0dee3
-#Assets/FACS Safe Import/Editor/Managed/Newtonsoft.Json.dll
-285398ff2139b1dfd13e47b1374aaed11f15679c21d8ed5d5f5ba17d89f05554
 #Assets/Udon/Editor/External/VRC.Udon.Compiler.dll
 93af5153044576e1efb2705105e6fd5c7aead301e984e4054b2d777621455802
 #Assets/Udon/Editor/External/VRC.Udon.EditorBindings.dll
