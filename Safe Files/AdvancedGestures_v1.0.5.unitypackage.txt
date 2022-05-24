@@ -1,0 +1,15 @@
+##AdvancedGestures_v1.0.5
+#Assets/ImTiara/AdvancedGestures/Scripts/AdvancedGesture.cs
+52ee95225f7b204dc69aa26e1a716e3fa0afeb5d50bd74badddbdb45945a9040
+#Assets/ImTiara/AdvancedGestures/Scripts/Editor/AnimationSplitter.cs
+03a613ebc7d9f61d6432531858763a5604a1c9de75377e81dd9f53f3b171e573
+#Assets/ImTiara/AdvancedGestures/Scripts/Editor/Configurer.cs
+73abb90526214eb3015a42f034eda03418b80173df4635a0dd09bb287e91513a
+#Assets/ImTiara/AdvancedGestures/Scripts/Editor/FistGenerator.cs
+4935e540b4d4b900016ce34a29fd23e67f6c35fa81b404309027c14e51f1b2bd
+#Assets/ImTiara/Common Assets/Scripts/AssetManager.cs
+9d92566c2f9db00557e3df99adcd534c7b3a3f5575220fedebd379272552a5bb
+#Assets/ImTiara/Common Assets/Scripts/Common.cs
+9b5d78796f39d11dfd6368682a103b81ee106debbc179e046f968dea73762949
+#Assets/ImTiara/Common Assets/Scripts/Discord.cs
+842e328a745fe47a61c6bbe74cda41a4f724165c145f207e501bdc8d06bd5d96

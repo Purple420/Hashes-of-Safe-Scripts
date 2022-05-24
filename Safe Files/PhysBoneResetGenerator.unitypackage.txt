@@ -1,0 +1,5 @@
+##PhysBoneResetGenerator
+#Assets/!Cam/!Scripts/Editor/PhysBoneResetGenerator.cs
+bc5b109a7d79d0276e8e377f795b24ed72fb6dbf29a78709f2ec62119a3a2513
+#Assets/!Cam/!Shared/Editor/EditorUtil.cs
+85f94e2d57c0323997bfd4a8e64f62439060488e13722339c8c1b06028ee2e6a

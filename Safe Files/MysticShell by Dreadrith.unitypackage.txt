@@ -1,0 +1,3 @@
+##MysticShell by Dreadrith
+#Assets/DreadScripts/Mystic Shell/Script/Editor/MysticShell.dll
+562f899c26bdf2a3b20b7f53ca2ec0992841da3855cd09dc7a77ee6f037c97a3

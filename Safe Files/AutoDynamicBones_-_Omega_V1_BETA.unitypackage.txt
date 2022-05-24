@@ -1,0 +1,5 @@
+##AutoDynamicBones_-_Omega_V1_BETA
+#Assets/AutoDynamicBones/AutoDynamicBones.cs
+c723625c4b37063173f8b06f77d13e73c7e50de5ccf2e9e7c2068b5f700dc5cf
+#Assets/AutoDynamicBones/Editor/AutoDynamicBonesEditor.cs
+41dfd90964d309477c4bb628cca0d7f111767d03fe713abf29d60e1c62ca0acc

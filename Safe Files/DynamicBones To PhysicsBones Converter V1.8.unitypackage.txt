@@ -1,0 +1,5 @@
+##DynamicBones To PhysicsBones Converter V1.8
+#Assets/Fluff Toolbox/Editor/Models/InitOnLoad.cs
+c83275bb3e0e8cc35e86995ef67c7a5cc498b2ce5d8f5670acad99beb0d6b5d8
+#Assets/Fluff Toolbox/Editor/Views/VRChat/ConvertDyncToPhys.cs
+7762d10464cc727bec089652344e851ef2c8dd5137d2d642021a19636d3d5593

@@ -1,0 +1,5 @@
+##VRCAvatarScalingSystem_v1.0.0.3_en
+#Assets/VRCAvatars3Tools/Utilitys/Editor/AnimatorControllerUtility.cs
+70b853e417a0eb08a7fe7ec974f5986d6bc8c2e978f9b02366b94213d2239d50
+#Assets/VRCAvatars3Tools/Utilitys/Editor/VRCAssetUtility.cs
+0bd701df10676cba3d9807e1dcbbc7fd3f705ae1833e9c9b0f20ae6e3d0f7857
