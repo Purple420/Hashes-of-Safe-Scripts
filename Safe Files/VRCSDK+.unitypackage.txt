@@ -1,0 +1,3 @@
+##VRCSDK+
+#Assets/DreadScripts/VRCSDK+/Editor/VRCSDKPlus.dll
+15af3984bcafe6658df30e814fc68fa4abaa059ba6911d519a3920b097ebf33f
