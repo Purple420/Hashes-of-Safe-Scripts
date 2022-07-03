@@ -1,0 +1,3 @@
+##Doppelganger_MetallicFX_v6.0.0
+#Assets/Shaders/Doppelgänger/Public/MetallicFX/Editor/MetallicFX600GUI.cs
+fb10aa5c5d600f7f259dcce8ccb6dbbcfee559d3c7386e31e93b6df058855fe9

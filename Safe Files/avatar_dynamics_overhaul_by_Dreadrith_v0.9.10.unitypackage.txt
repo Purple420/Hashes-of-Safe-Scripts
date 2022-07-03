@@ -1,0 +1,3 @@
+##avatar_dynamics_overhaul_by_Dreadrith_v0.9.10
+#Assets/DreadScripts/Avatar Dynamics Overhaul/Editor/ADOverhaul.dll
+2b48831bbb6042faf7d4bbcffee8a707a49aea63d78581cbb7f779dee9aa7fd2

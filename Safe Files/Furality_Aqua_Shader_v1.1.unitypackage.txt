@@ -1,0 +1,3 @@
+##Furality_Aqua_Shader_v1.1
+#Assets/Furality/Furality Aqua/Shaders/Furality Aqua Shader/GUI/Editor/AquaShaderGUI.cs
+c3b8c85a533e12a4a6008fba5fa6ad46cb8158bad4ddabec0b79d1f814676664

@@ -1,0 +1,5 @@
+##CarbonClone v1.2.7.unitypackage
+#Assets/DreadScripts/Carbon Copy/Export/Shaders/Editor/ToggleHUDEditor.cs
+d4d572b3a4055088cb904a26f79a305b01a029e95e684ea48164ebe24bbcb14e
+#Assets/DreadScripts/Carbon Copy/Editor/CarbonCopy.dll
+07b117947fea095ce0a919373fdd2780b4cce741bb71e4ed386adcbe6263790b

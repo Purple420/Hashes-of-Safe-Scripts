@@ -1,0 +1,3 @@
+##DexCloneSystem_RC3.2
+#Assets/DexCloneSystem/Editor/DexCloneSystem.dll
+706f98e1487ecd66fc48eb0c6937c13bbb0b85c19f27ef8820cd77dfceb77118

@@ -1,0 +1,9 @@
+##Ragdoll_System_v1.13.2
+#Assets/VRLabs/Ragdoll System/Ragdoll.cs
+bdd4d2eac5ebde691c7928e2184a8f11dccae26d77cd265d8fdd81306a3450cd
+#Assets/VRLabs/Ragdoll System/Editor/AnimatorCloner.cs
+bef0e36b23be38062eef20f34a008ed805f836801d4158d438bddf5861de7702
+#Assets/VRLabs/Ragdoll System/Editor/RagdollEditor.cs
+2fcf5b8d664e126415e29cbb4502c80d197326b5053471ccaf3375d641f7595b
+#Assets/VRLabs/Ragdoll System/Editor/ScriptFunctions.cs
+c476c0eb2195b30123a01f8c9cc315d4900799abb76897b7b3fe5e62b294a8a5

@@ -1,0 +1,3 @@
+##DupeWithMats
+#Assets/DreadScripts/Duplicate With Materials/Editor/DuplicateWithMaterials.cs
+e24cc027e386ffed95aa07e9dad08ee0e49036d017522f96d7ce3d42bd0fff76
