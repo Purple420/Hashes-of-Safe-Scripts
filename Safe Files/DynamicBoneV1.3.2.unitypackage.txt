@@ -1,0 +1,11 @@
+##DynamicBoneV1.3.2
+#Assets/DynamicBone/Demo/DynamicBoneDemo1.cs
+c2b5e8accd2b9d31e83450ccdebb7e147253bd39351695a116c347abe2a6598a
+#Assets/DynamicBone/Scripts/DynamicBone.cs
+c8c138326d5a57b16b686ed8e9494ad3df1b03ad421ec7f4e6bb2aa4218c5b93
+#Assets/DynamicBone/Scripts/DynamicBoneCollider.cs
+64b0d4d1e94b8788f3f9060f6359662ed12fe549d64ad6c4c03c885e6f53296a
+#Assets/DynamicBone/Scripts/DynamicBoneColliderBase.cs
+c0c914d71ff182f50c2b04f45740ca61f1b4592b2665b7c1fc840423c48f3db1
+#Assets/DynamicBone/Scripts/DynamicBonePlaneCollider.cs
+7f86944fb5aac3009e521d13acc98f81a4d01266c16c86f2ef287a16ad01d86d

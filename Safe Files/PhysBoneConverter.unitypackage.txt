@@ -1,0 +1,3 @@
+##PhysBoneConverter
+#Assets/DreadScripts/PhysBoneConverter/Editor/PhysBoneConverter.cs
+8e727a99bc2a9ecce17c31b5a3169b51daf20fc3662d1cd4dc86a8d2c382a69e

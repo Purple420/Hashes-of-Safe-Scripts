@@ -1,0 +1,9 @@
+##VRLabs_Marker_v1.2.5
+#Assets/VRLabs/Marker/Marker.cs
+49dcbd1e92942cce2e9fada130b9377530638732cc47ed3df8068183d85d6a04
+#Assets/VRLabs/Marker/Editor/AnimatorCloner.cs
+64032454be400fdfc158fbab4711c2740934c69f218a3b318bc9891d037c8aa9
+#Assets/VRLabs/Marker/Editor/MarkerEditor.cs
+9181ca9de76342247c4949a9bc835d8da2aef4ee527fe50cce483712bfbc7adb
+#Assets/VRLabs/Marker/Editor/ScriptFunctions.cs
+9f0489892936ff7f320b2986e0dd6756b98587e02b088a6f42784b79857ac466

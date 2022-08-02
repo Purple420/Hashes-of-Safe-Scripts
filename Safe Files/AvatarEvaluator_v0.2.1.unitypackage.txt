@@ -1,0 +1,9 @@
+##AvatarEvaluator_v0.2.1
+#Assets/VRCAvatarTools/AvatarEvaluator.cs
+a8f322123dc5ece7ec2ceb246e036a0b27bd0590e803a8782ef3355e469779b9
+#Assets/VRCAvatarTools/Thryformance.cs
+faabbe4b30a23ce9d720b0044a43725c988ba783ba635b4626a421b4d9cce1b7
+#Assets/VRCAvatarTools/ThryFormanceManager.cs
+5b980a176537508df473afa794d6d7d1faa2917520dddd11c178d24076e7d618
+#Assets/VRCAvatarTools/VRAM Check/TextureVRAM.cs
+ac747dea836c3ceeec6a6c35a56016a70c780256e6b63ee7608b359c332a58d1

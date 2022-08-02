@@ -1,0 +1,5 @@
+##PeanutTools_VRC3CVR_1.1.1
+#Assets/PeanutTools/VRC3CVR/Editor/CustomGUI.cs
+e7750d6223b83b2fbd3bc5bfc4f5ec2a8afceaabb1c77b53eb02206ebeebe146
+#Assets/PeanutTools/VRC3CVR/Editor/VRC3CVR.cs
+3ae51d2577ffd703d68af5b0902cdf71885b40a0241951a9c025eff0c7bd96ff
