@@ -1,0 +1,9 @@
+##AXCS_build21
+#Assets/ArxCharacterShaders/Editor/AxCommon.cs
+8aa0828a30af80764ba8075af42c8e9574995925f0d2a8a98f04cfbb811748ba
+#Assets/ArxCharacterShaders/Editor/AxInspector.cs
+5b6c3a6b8338b1c2858386843a1cde99b88af45dd11ca83a305a15bbf91c502b
+#Assets/ArxCharacterShaders/Editor/AxTips.cs
+26a78550f1934ce45b873e7c9fbd840fa2060071171292230040930c1d7436a9
+#Assets/ArxCharacterShaders/Editor/Generator/AxGenerator.cs
+faf4272fc77923469937b27678b28ffaa4abe8cdc1e6b19ac3ac23ff44dc3ca3
