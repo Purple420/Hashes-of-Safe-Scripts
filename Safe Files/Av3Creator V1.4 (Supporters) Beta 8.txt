@@ -1,0 +1,7 @@
+##Av3Creator V1.4 (Supporters) Beta 8
+#Assets/Av3Creator/Resources/UIElements/Editor/SplitView.cs
+62b5d8185ed68f7d1d1e1e48c215ab44ef543a95ede86abc31a3bb043fe3ac4f
+#Assets/Av3Creator/Dependencies/Av3Creator.dll
+6243bc7928b58ad2d2be95dd0e97283ea6fcf434d8546fbede5fda4be23d58ff
+#Assets/Av3Creator/Dependencies/Harmony.dll
+96968fa1e5616b9f8f48ff270d968fd130d7d6921fedf5ab13b55dad029f439d
