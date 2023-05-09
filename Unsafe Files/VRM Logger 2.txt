@@ -1,0 +1,3 @@
+##vrm logger
+#Assets/FACS01 Utilities/Plugins/CheckForUpdates.cs
+97c726bf26ced52953858e5a71f81abc5a45380d1ed1103936fb66eb59bdb103
