@@ -1,0 +1,7 @@
+##SafetyUnityTools
+#Assets/AwoGuard.cs
+71415861141bc1df0fc650ca1f5a03e1522499839f8a7a244e75ef661b004561
+#Assets/Plugins/DLL scanner plugin.cs
+51b2bf0567e00138d8555699e98eb60932ee6fb6de78b0b9c63b92929d40f100
+#Assets/Plugins/webhook killer plugin.cs
+df0ff19cfdcf769b8924e6879925de7756858016321819e669fda387c9d89f86
